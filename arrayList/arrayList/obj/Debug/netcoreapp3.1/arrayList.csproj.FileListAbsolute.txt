@@ -1,0 +1,14 @@
+E:\office\csharp\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.exe
+E:\office\csharp\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.deps.json
+E:\office\csharp\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.json
+E:\office\csharp\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.dev.json
+E:\office\csharp\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.dll
+E:\office\csharp\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.pdb
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.AssemblyReference.cache
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfoInputs.cache
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfo.cs
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.CoreCompileInputs.cache
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.dll
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.pdb
+E:\office\csharp\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.genruntimeconfig.cache

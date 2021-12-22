@@ -1,0 +1,14 @@
+E:\office\csharp\MultiArray\MultiArray\bin\Debug\netcoreapp3.1\MultiArray.exe
+E:\office\csharp\MultiArray\MultiArray\bin\Debug\netcoreapp3.1\MultiArray.deps.json
+E:\office\csharp\MultiArray\MultiArray\bin\Debug\netcoreapp3.1\MultiArray.runtimeconfig.json
+E:\office\csharp\MultiArray\MultiArray\bin\Debug\netcoreapp3.1\MultiArray.runtimeconfig.dev.json
+E:\office\csharp\MultiArray\MultiArray\bin\Debug\netcoreapp3.1\MultiArray.dll
+E:\office\csharp\MultiArray\MultiArray\bin\Debug\netcoreapp3.1\MultiArray.pdb
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.csproj.AssemblyReference.cache
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.AssemblyInfoInputs.cache
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.AssemblyInfo.cs
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.csproj.CoreCompileInputs.cache
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.dll
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.pdb
+E:\office\csharp\MultiArray\MultiArray\obj\Debug\netcoreapp3.1\MultiArray.genruntimeconfig.cache
