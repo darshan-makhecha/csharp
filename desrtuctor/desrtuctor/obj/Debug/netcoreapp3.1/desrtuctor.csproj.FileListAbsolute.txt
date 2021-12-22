@@ -1,0 +1,14 @@
+E:\office\desrtuctor\desrtuctor\bin\Debug\netcoreapp3.1\desrtuctor.exe
+E:\office\desrtuctor\desrtuctor\bin\Debug\netcoreapp3.1\desrtuctor.deps.json
+E:\office\desrtuctor\desrtuctor\bin\Debug\netcoreapp3.1\desrtuctor.runtimeconfig.json
+E:\office\desrtuctor\desrtuctor\bin\Debug\netcoreapp3.1\desrtuctor.runtimeconfig.dev.json
+E:\office\desrtuctor\desrtuctor\bin\Debug\netcoreapp3.1\desrtuctor.dll
+E:\office\desrtuctor\desrtuctor\bin\Debug\netcoreapp3.1\desrtuctor.pdb
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.csproj.AssemblyReference.cache
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.AssemblyInfoInputs.cache
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.AssemblyInfo.cs
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.csproj.CoreCompileInputs.cache
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.dll
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.pdb
+E:\office\desrtuctor\desrtuctor\obj\Debug\netcoreapp3.1\desrtuctor.genruntimeconfig.cache

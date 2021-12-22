@@ -1,0 +1,14 @@
+E:\office\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.exe
+E:\office\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.deps.json
+E:\office\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.json
+E:\office\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.dev.json
+E:\office\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.dll
+E:\office\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.pdb
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.csproj.AssemblyReference.cache
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfoInputs.cache
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfo.cs
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.csproj.CoreCompileInputs.cache
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.dll
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.pdb
+E:\office\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.genruntimeconfig.cache

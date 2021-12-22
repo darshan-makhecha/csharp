@@ -1,0 +1,14 @@
+E:\office\oop1Prg\oop1Prg\bin\Debug\netcoreapp3.1\oop1Prg.exe
+E:\office\oop1Prg\oop1Prg\bin\Debug\netcoreapp3.1\oop1Prg.deps.json
+E:\office\oop1Prg\oop1Prg\bin\Debug\netcoreapp3.1\oop1Prg.runtimeconfig.json
+E:\office\oop1Prg\oop1Prg\bin\Debug\netcoreapp3.1\oop1Prg.runtimeconfig.dev.json
+E:\office\oop1Prg\oop1Prg\bin\Debug\netcoreapp3.1\oop1Prg.dll
+E:\office\oop1Prg\oop1Prg\bin\Debug\netcoreapp3.1\oop1Prg.pdb
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.csproj.AssemblyReference.cache
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.AssemblyInfoInputs.cache
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.AssemblyInfo.cs
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.csproj.CoreCompileInputs.cache
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.dll
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.pdb
+E:\office\oop1Prg\oop1Prg\obj\Debug\netcoreapp3.1\oop1Prg.genruntimeconfig.cache

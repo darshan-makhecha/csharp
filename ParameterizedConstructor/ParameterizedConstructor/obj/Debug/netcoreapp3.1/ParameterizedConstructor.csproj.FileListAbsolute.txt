@@ -1,0 +1,14 @@
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.csproj.AssemblyReference.cache
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.AssemblyInfoInputs.cache
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.AssemblyInfo.cs
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+E:\office\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.exe
+E:\office\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.deps.json
+E:\office\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.runtimeconfig.json
+E:\office\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.runtimeconfig.dev.json
+E:\office\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.dll
+E:\office\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.pdb
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.dll
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.pdb
+E:\office\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.genruntimeconfig.cache

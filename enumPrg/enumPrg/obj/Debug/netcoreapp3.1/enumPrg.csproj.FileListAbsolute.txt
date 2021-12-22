@@ -1,0 +1,13 @@
+E:\office\enumPrg\enumPrg\bin\Debug\netcoreapp3.1\enumPrg.exe
+E:\office\enumPrg\enumPrg\bin\Debug\netcoreapp3.1\enumPrg.deps.json
+E:\office\enumPrg\enumPrg\bin\Debug\netcoreapp3.1\enumPrg.runtimeconfig.json
+E:\office\enumPrg\enumPrg\bin\Debug\netcoreapp3.1\enumPrg.runtimeconfig.dev.json
+E:\office\enumPrg\enumPrg\bin\Debug\netcoreapp3.1\enumPrg.dll
+E:\office\enumPrg\enumPrg\bin\Debug\netcoreapp3.1\enumPrg.pdb
+E:\office\enumPrg\enumPrg\obj\Debug\netcoreapp3.1\enumPrg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\enumPrg\enumPrg\obj\Debug\netcoreapp3.1\enumPrg.AssemblyInfoInputs.cache
+E:\office\enumPrg\enumPrg\obj\Debug\netcoreapp3.1\enumPrg.AssemblyInfo.cs
+E:\office\enumPrg\enumPrg\obj\Debug\netcoreapp3.1\enumPrg.csproj.CoreCompileInputs.cache
+E:\office\enumPrg\enumPrg\obj\Debug\netcoreapp3.1\enumPrg.dll
+E:\office\enumPrg\enumPrg\obj\Debug\netcoreapp3.1\enumPrg.pdb
+E:\office\enumPrg\enumPrg\obj\Debug\netcoreapp3.1\enumPrg.genruntimeconfig.cache

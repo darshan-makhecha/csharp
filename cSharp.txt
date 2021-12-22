@@ -1,0 +1,27 @@
+			CLASS
+it is a blue print of an object that contain variable for  the data and funv=ction to perform opertains on data.
+it will not occupy any memory space.
+eg . class emp{
+	
+	}
+
+			OBJECT
+an object is an instance of a class.
+the function of one object can access the function of another object.
+it are the basic run-time entities if oops.
+
+		CONSTRUCTOR : 
+constructor is a special method which is invoked automatically at the time of object creation.
+
+thier are 2 types of constructor
+	1. Default 
+	2. Parametrized 
+
+
+	THIS (keyword)
+
+main 3 usage in c#
+1.it is refer to  current i stance if class . 
+2.to pass current object as a parameter to another method.
+3.to declare indexers.  
+	

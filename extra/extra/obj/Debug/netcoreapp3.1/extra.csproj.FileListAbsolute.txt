@@ -1,0 +1,13 @@
+E:\office\extra\extra\bin\Debug\netcoreapp3.1\extra.exe
+E:\office\extra\extra\bin\Debug\netcoreapp3.1\extra.deps.json
+E:\office\extra\extra\bin\Debug\netcoreapp3.1\extra.runtimeconfig.json
+E:\office\extra\extra\bin\Debug\netcoreapp3.1\extra.runtimeconfig.dev.json
+E:\office\extra\extra\bin\Debug\netcoreapp3.1\extra.dll
+E:\office\extra\extra\bin\Debug\netcoreapp3.1\extra.pdb
+E:\office\extra\extra\obj\Debug\netcoreapp3.1\extra.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\extra\extra\obj\Debug\netcoreapp3.1\extra.AssemblyInfoInputs.cache
+E:\office\extra\extra\obj\Debug\netcoreapp3.1\extra.AssemblyInfo.cs
+E:\office\extra\extra\obj\Debug\netcoreapp3.1\extra.csproj.CoreCompileInputs.cache
+E:\office\extra\extra\obj\Debug\netcoreapp3.1\extra.dll
+E:\office\extra\extra\obj\Debug\netcoreapp3.1\extra.pdb
+E:\office\extra\extra\obj\Debug\netcoreapp3.1\extra.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\office\interfaceDemo\interfaceDemo\bin\Debug\netcoreapp3.1\interfaceDemo.exe
+E:\office\interfaceDemo\interfaceDemo\bin\Debug\netcoreapp3.1\interfaceDemo.deps.json
+E:\office\interfaceDemo\interfaceDemo\bin\Debug\netcoreapp3.1\interfaceDemo.runtimeconfig.json
+E:\office\interfaceDemo\interfaceDemo\bin\Debug\netcoreapp3.1\interfaceDemo.runtimeconfig.dev.json
+E:\office\interfaceDemo\interfaceDemo\bin\Debug\netcoreapp3.1\interfaceDemo.dll
+E:\office\interfaceDemo\interfaceDemo\bin\Debug\netcoreapp3.1\interfaceDemo.pdb
+E:\office\interfaceDemo\interfaceDemo\obj\Debug\netcoreapp3.1\interfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\interfaceDemo\interfaceDemo\obj\Debug\netcoreapp3.1\interfaceDemo.AssemblyInfoInputs.cache
+E:\office\interfaceDemo\interfaceDemo\obj\Debug\netcoreapp3.1\interfaceDemo.AssemblyInfo.cs
+E:\office\interfaceDemo\interfaceDemo\obj\Debug\netcoreapp3.1\interfaceDemo.csproj.CoreCompileInputs.cache
+E:\office\interfaceDemo\interfaceDemo\obj\Debug\netcoreapp3.1\interfaceDemo.dll
+E:\office\interfaceDemo\interfaceDemo\obj\Debug\netcoreapp3.1\interfaceDemo.pdb
+E:\office\interfaceDemo\interfaceDemo\obj\Debug\netcoreapp3.1\interfaceDemo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\office\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.exe
+E:\office\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.deps.json
+E:\office\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.json
+E:\office\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.dev.json
+E:\office\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.dll
+E:\office\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.pdb
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.csproj.AssemblyReference.cache
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfoInputs.cache
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfo.cs
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.csproj.CoreCompileInputs.cache
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.dll
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.pdb
+E:\office\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.genruntimeconfig.cache
