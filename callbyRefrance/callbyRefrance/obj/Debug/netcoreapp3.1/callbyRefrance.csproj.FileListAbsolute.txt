@@ -1,0 +1,13 @@
+E:\office\csharp\callbyRefrance\callbyRefrance\bin\Debug\netcoreapp3.1\callbyRefrance.exe
+E:\office\csharp\callbyRefrance\callbyRefrance\bin\Debug\netcoreapp3.1\callbyRefrance.deps.json
+E:\office\csharp\callbyRefrance\callbyRefrance\bin\Debug\netcoreapp3.1\callbyRefrance.runtimeconfig.json
+E:\office\csharp\callbyRefrance\callbyRefrance\bin\Debug\netcoreapp3.1\callbyRefrance.runtimeconfig.dev.json
+E:\office\csharp\callbyRefrance\callbyRefrance\bin\Debug\netcoreapp3.1\callbyRefrance.dll
+E:\office\csharp\callbyRefrance\callbyRefrance\bin\Debug\netcoreapp3.1\callbyRefrance.pdb
+E:\office\csharp\callbyRefrance\callbyRefrance\obj\Debug\netcoreapp3.1\callbyRefrance.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\callbyRefrance\callbyRefrance\obj\Debug\netcoreapp3.1\callbyRefrance.AssemblyInfoInputs.cache
+E:\office\csharp\callbyRefrance\callbyRefrance\obj\Debug\netcoreapp3.1\callbyRefrance.AssemblyInfo.cs
+E:\office\csharp\callbyRefrance\callbyRefrance\obj\Debug\netcoreapp3.1\callbyRefrance.csproj.CoreCompileInputs.cache
+E:\office\csharp\callbyRefrance\callbyRefrance\obj\Debug\netcoreapp3.1\callbyRefrance.dll
+E:\office\csharp\callbyRefrance\callbyRefrance\obj\Debug\netcoreapp3.1\callbyRefrance.pdb
+E:\office\csharp\callbyRefrance\callbyRefrance\obj\Debug\netcoreapp3.1\callbyRefrance.genruntimeconfig.cache

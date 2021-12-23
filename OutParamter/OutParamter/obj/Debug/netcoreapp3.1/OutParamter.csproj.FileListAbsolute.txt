@@ -1,0 +1,13 @@
+E:\office\csharp\OutParamter\OutParamter\bin\Debug\netcoreapp3.1\OutParamter.exe
+E:\office\csharp\OutParamter\OutParamter\bin\Debug\netcoreapp3.1\OutParamter.deps.json
+E:\office\csharp\OutParamter\OutParamter\bin\Debug\netcoreapp3.1\OutParamter.runtimeconfig.json
+E:\office\csharp\OutParamter\OutParamter\bin\Debug\netcoreapp3.1\OutParamter.runtimeconfig.dev.json
+E:\office\csharp\OutParamter\OutParamter\bin\Debug\netcoreapp3.1\OutParamter.dll
+E:\office\csharp\OutParamter\OutParamter\bin\Debug\netcoreapp3.1\OutParamter.pdb
+E:\office\csharp\OutParamter\OutParamter\obj\Debug\netcoreapp3.1\OutParamter.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\OutParamter\OutParamter\obj\Debug\netcoreapp3.1\OutParamter.AssemblyInfoInputs.cache
+E:\office\csharp\OutParamter\OutParamter\obj\Debug\netcoreapp3.1\OutParamter.AssemblyInfo.cs
+E:\office\csharp\OutParamter\OutParamter\obj\Debug\netcoreapp3.1\OutParamter.csproj.CoreCompileInputs.cache
+E:\office\csharp\OutParamter\OutParamter\obj\Debug\netcoreapp3.1\OutParamter.dll
+E:\office\csharp\OutParamter\OutParamter\obj\Debug\netcoreapp3.1\OutParamter.pdb
+E:\office\csharp\OutParamter\OutParamter\obj\Debug\netcoreapp3.1\OutParamter.genruntimeconfig.cache

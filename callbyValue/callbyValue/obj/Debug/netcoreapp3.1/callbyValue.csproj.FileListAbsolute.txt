@@ -1,0 +1,14 @@
+E:\office\csharp\callbyValue\callbyValue\bin\Debug\netcoreapp3.1\callbyValue.exe
+E:\office\csharp\callbyValue\callbyValue\bin\Debug\netcoreapp3.1\callbyValue.deps.json
+E:\office\csharp\callbyValue\callbyValue\bin\Debug\netcoreapp3.1\callbyValue.runtimeconfig.json
+E:\office\csharp\callbyValue\callbyValue\bin\Debug\netcoreapp3.1\callbyValue.runtimeconfig.dev.json
+E:\office\csharp\callbyValue\callbyValue\bin\Debug\netcoreapp3.1\callbyValue.dll
+E:\office\csharp\callbyValue\callbyValue\bin\Debug\netcoreapp3.1\callbyValue.pdb
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.csproj.AssemblyReference.cache
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.AssemblyInfoInputs.cache
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.AssemblyInfo.cs
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.csproj.CoreCompileInputs.cache
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.dll
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.pdb
+E:\office\csharp\callbyValue\callbyValue\obj\Debug\netcoreapp3.1\callbyValue.genruntimeconfig.cache
