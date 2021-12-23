@@ -1,0 +1,13 @@
+E:\office\csharp\SortedListEg\SortedListEg\bin\Debug\netcoreapp3.1\SortedListEg.exe
+E:\office\csharp\SortedListEg\SortedListEg\bin\Debug\netcoreapp3.1\SortedListEg.deps.json
+E:\office\csharp\SortedListEg\SortedListEg\bin\Debug\netcoreapp3.1\SortedListEg.runtimeconfig.json
+E:\office\csharp\SortedListEg\SortedListEg\bin\Debug\netcoreapp3.1\SortedListEg.runtimeconfig.dev.json
+E:\office\csharp\SortedListEg\SortedListEg\bin\Debug\netcoreapp3.1\SortedListEg.dll
+E:\office\csharp\SortedListEg\SortedListEg\bin\Debug\netcoreapp3.1\SortedListEg.pdb
+E:\office\csharp\SortedListEg\SortedListEg\obj\Debug\netcoreapp3.1\SortedListEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\SortedListEg\SortedListEg\obj\Debug\netcoreapp3.1\SortedListEg.AssemblyInfoInputs.cache
+E:\office\csharp\SortedListEg\SortedListEg\obj\Debug\netcoreapp3.1\SortedListEg.AssemblyInfo.cs
+E:\office\csharp\SortedListEg\SortedListEg\obj\Debug\netcoreapp3.1\SortedListEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\SortedListEg\SortedListEg\obj\Debug\netcoreapp3.1\SortedListEg.dll
+E:\office\csharp\SortedListEg\SortedListEg\obj\Debug\netcoreapp3.1\SortedListEg.pdb
+E:\office\csharp\SortedListEg\SortedListEg\obj\Debug\netcoreapp3.1\SortedListEg.genruntimeconfig.cache

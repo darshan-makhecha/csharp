@@ -1,0 +1,13 @@
+E:\office\csharp\stackEg\stackEg\bin\Debug\netcoreapp3.1\stackEg.exe
+E:\office\csharp\stackEg\stackEg\bin\Debug\netcoreapp3.1\stackEg.deps.json
+E:\office\csharp\stackEg\stackEg\bin\Debug\netcoreapp3.1\stackEg.runtimeconfig.json
+E:\office\csharp\stackEg\stackEg\bin\Debug\netcoreapp3.1\stackEg.runtimeconfig.dev.json
+E:\office\csharp\stackEg\stackEg\bin\Debug\netcoreapp3.1\stackEg.dll
+E:\office\csharp\stackEg\stackEg\bin\Debug\netcoreapp3.1\stackEg.pdb
+E:\office\csharp\stackEg\stackEg\obj\Debug\netcoreapp3.1\stackEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\stackEg\stackEg\obj\Debug\netcoreapp3.1\stackEg.AssemblyInfoInputs.cache
+E:\office\csharp\stackEg\stackEg\obj\Debug\netcoreapp3.1\stackEg.AssemblyInfo.cs
+E:\office\csharp\stackEg\stackEg\obj\Debug\netcoreapp3.1\stackEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\stackEg\stackEg\obj\Debug\netcoreapp3.1\stackEg.dll
+E:\office\csharp\stackEg\stackEg\obj\Debug\netcoreapp3.1\stackEg.pdb
+E:\office\csharp\stackEg\stackEg\obj\Debug\netcoreapp3.1\stackEg.genruntimeconfig.cache

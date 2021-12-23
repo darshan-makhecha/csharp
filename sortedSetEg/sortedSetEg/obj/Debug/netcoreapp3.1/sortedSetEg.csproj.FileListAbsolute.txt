@@ -1,0 +1,13 @@
+E:\office\csharp\sortedSetEg\sortedSetEg\bin\Debug\netcoreapp3.1\sortedSetEg.exe
+E:\office\csharp\sortedSetEg\sortedSetEg\bin\Debug\netcoreapp3.1\sortedSetEg.deps.json
+E:\office\csharp\sortedSetEg\sortedSetEg\bin\Debug\netcoreapp3.1\sortedSetEg.runtimeconfig.json
+E:\office\csharp\sortedSetEg\sortedSetEg\bin\Debug\netcoreapp3.1\sortedSetEg.runtimeconfig.dev.json
+E:\office\csharp\sortedSetEg\sortedSetEg\bin\Debug\netcoreapp3.1\sortedSetEg.dll
+E:\office\csharp\sortedSetEg\sortedSetEg\bin\Debug\netcoreapp3.1\sortedSetEg.pdb
+E:\office\csharp\sortedSetEg\sortedSetEg\obj\Debug\netcoreapp3.1\sortedSetEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\sortedSetEg\sortedSetEg\obj\Debug\netcoreapp3.1\sortedSetEg.AssemblyInfoInputs.cache
+E:\office\csharp\sortedSetEg\sortedSetEg\obj\Debug\netcoreapp3.1\sortedSetEg.AssemblyInfo.cs
+E:\office\csharp\sortedSetEg\sortedSetEg\obj\Debug\netcoreapp3.1\sortedSetEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\sortedSetEg\sortedSetEg\obj\Debug\netcoreapp3.1\sortedSetEg.dll
+E:\office\csharp\sortedSetEg\sortedSetEg\obj\Debug\netcoreapp3.1\sortedSetEg.pdb
+E:\office\csharp\sortedSetEg\sortedSetEg\obj\Debug\netcoreapp3.1\sortedSetEg.genruntimeconfig.cache

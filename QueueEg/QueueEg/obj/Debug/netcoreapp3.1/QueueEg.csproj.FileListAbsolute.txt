@@ -1,0 +1,13 @@
+E:\office\csharp\QueueEg\QueueEg\bin\Debug\netcoreapp3.1\QueueEg.exe
+E:\office\csharp\QueueEg\QueueEg\bin\Debug\netcoreapp3.1\QueueEg.deps.json
+E:\office\csharp\QueueEg\QueueEg\bin\Debug\netcoreapp3.1\QueueEg.runtimeconfig.json
+E:\office\csharp\QueueEg\QueueEg\bin\Debug\netcoreapp3.1\QueueEg.runtimeconfig.dev.json
+E:\office\csharp\QueueEg\QueueEg\bin\Debug\netcoreapp3.1\QueueEg.dll
+E:\office\csharp\QueueEg\QueueEg\bin\Debug\netcoreapp3.1\QueueEg.pdb
+E:\office\csharp\QueueEg\QueueEg\obj\Debug\netcoreapp3.1\QueueEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\QueueEg\QueueEg\obj\Debug\netcoreapp3.1\QueueEg.AssemblyInfoInputs.cache
+E:\office\csharp\QueueEg\QueueEg\obj\Debug\netcoreapp3.1\QueueEg.AssemblyInfo.cs
+E:\office\csharp\QueueEg\QueueEg\obj\Debug\netcoreapp3.1\QueueEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\QueueEg\QueueEg\obj\Debug\netcoreapp3.1\QueueEg.dll
+E:\office\csharp\QueueEg\QueueEg\obj\Debug\netcoreapp3.1\QueueEg.pdb
+E:\office\csharp\QueueEg\QueueEg\obj\Debug\netcoreapp3.1\QueueEg.genruntimeconfig.cache

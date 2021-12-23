@@ -1,0 +1,13 @@
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\bin\Debug\netcoreapp3.1\SortedDictnaryEg.exe
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\bin\Debug\netcoreapp3.1\SortedDictnaryEg.deps.json
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\bin\Debug\netcoreapp3.1\SortedDictnaryEg.runtimeconfig.json
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\bin\Debug\netcoreapp3.1\SortedDictnaryEg.runtimeconfig.dev.json
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\bin\Debug\netcoreapp3.1\SortedDictnaryEg.dll
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\bin\Debug\netcoreapp3.1\SortedDictnaryEg.pdb
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\obj\Debug\netcoreapp3.1\SortedDictnaryEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\obj\Debug\netcoreapp3.1\SortedDictnaryEg.AssemblyInfoInputs.cache
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\obj\Debug\netcoreapp3.1\SortedDictnaryEg.AssemblyInfo.cs
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\obj\Debug\netcoreapp3.1\SortedDictnaryEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\obj\Debug\netcoreapp3.1\SortedDictnaryEg.dll
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\obj\Debug\netcoreapp3.1\SortedDictnaryEg.pdb
+E:\office\csharp\SortedDictnaryEg\SortedDictnaryEg\obj\Debug\netcoreapp3.1\SortedDictnaryEg.genruntimeconfig.cache

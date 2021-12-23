@@ -1,0 +1,13 @@
+E:\office\csharp\linklistEg\linklistEg\bin\Debug\netcoreapp3.1\linklistEg.exe
+E:\office\csharp\linklistEg\linklistEg\bin\Debug\netcoreapp3.1\linklistEg.deps.json
+E:\office\csharp\linklistEg\linklistEg\bin\Debug\netcoreapp3.1\linklistEg.runtimeconfig.json
+E:\office\csharp\linklistEg\linklistEg\bin\Debug\netcoreapp3.1\linklistEg.runtimeconfig.dev.json
+E:\office\csharp\linklistEg\linklistEg\bin\Debug\netcoreapp3.1\linklistEg.dll
+E:\office\csharp\linklistEg\linklistEg\bin\Debug\netcoreapp3.1\linklistEg.pdb
+E:\office\csharp\linklistEg\linklistEg\obj\Debug\netcoreapp3.1\linklistEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\linklistEg\linklistEg\obj\Debug\netcoreapp3.1\linklistEg.AssemblyInfoInputs.cache
+E:\office\csharp\linklistEg\linklistEg\obj\Debug\netcoreapp3.1\linklistEg.AssemblyInfo.cs
+E:\office\csharp\linklistEg\linklistEg\obj\Debug\netcoreapp3.1\linklistEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\linklistEg\linklistEg\obj\Debug\netcoreapp3.1\linklistEg.dll
+E:\office\csharp\linklistEg\linklistEg\obj\Debug\netcoreapp3.1\linklistEg.pdb
+E:\office\csharp\linklistEg\linklistEg\obj\Debug\netcoreapp3.1\linklistEg.genruntimeconfig.cache

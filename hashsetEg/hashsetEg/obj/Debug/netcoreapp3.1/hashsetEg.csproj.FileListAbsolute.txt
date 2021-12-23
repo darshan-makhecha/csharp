@@ -1,0 +1,14 @@
+E:\office\csharp\hashsetEg\hashsetEg\bin\Debug\netcoreapp3.1\hashsetEg.exe
+E:\office\csharp\hashsetEg\hashsetEg\bin\Debug\netcoreapp3.1\hashsetEg.deps.json
+E:\office\csharp\hashsetEg\hashsetEg\bin\Debug\netcoreapp3.1\hashsetEg.runtimeconfig.json
+E:\office\csharp\hashsetEg\hashsetEg\bin\Debug\netcoreapp3.1\hashsetEg.runtimeconfig.dev.json
+E:\office\csharp\hashsetEg\hashsetEg\bin\Debug\netcoreapp3.1\hashsetEg.dll
+E:\office\csharp\hashsetEg\hashsetEg\bin\Debug\netcoreapp3.1\hashsetEg.pdb
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.csproj.AssemblyReference.cache
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.AssemblyInfoInputs.cache
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.AssemblyInfo.cs
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.dll
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.pdb
+E:\office\csharp\hashsetEg\hashsetEg\obj\Debug\netcoreapp3.1\hashsetEg.genruntimeconfig.cache

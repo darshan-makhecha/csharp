@@ -1,0 +1,13 @@
+E:\office\csharp\DictnaryEg\DictnaryEg\bin\Debug\netcoreapp3.1\DictnaryEg.exe
+E:\office\csharp\DictnaryEg\DictnaryEg\bin\Debug\netcoreapp3.1\DictnaryEg.deps.json
+E:\office\csharp\DictnaryEg\DictnaryEg\bin\Debug\netcoreapp3.1\DictnaryEg.runtimeconfig.json
+E:\office\csharp\DictnaryEg\DictnaryEg\bin\Debug\netcoreapp3.1\DictnaryEg.runtimeconfig.dev.json
+E:\office\csharp\DictnaryEg\DictnaryEg\bin\Debug\netcoreapp3.1\DictnaryEg.dll
+E:\office\csharp\DictnaryEg\DictnaryEg\bin\Debug\netcoreapp3.1\DictnaryEg.pdb
+E:\office\csharp\DictnaryEg\DictnaryEg\obj\Debug\netcoreapp3.1\DictnaryEg.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\DictnaryEg\DictnaryEg\obj\Debug\netcoreapp3.1\DictnaryEg.AssemblyInfoInputs.cache
+E:\office\csharp\DictnaryEg\DictnaryEg\obj\Debug\netcoreapp3.1\DictnaryEg.AssemblyInfo.cs
+E:\office\csharp\DictnaryEg\DictnaryEg\obj\Debug\netcoreapp3.1\DictnaryEg.csproj.CoreCompileInputs.cache
+E:\office\csharp\DictnaryEg\DictnaryEg\obj\Debug\netcoreapp3.1\DictnaryEg.dll
+E:\office\csharp\DictnaryEg\DictnaryEg\obj\Debug\netcoreapp3.1\DictnaryEg.pdb
+E:\office\csharp\DictnaryEg\DictnaryEg\obj\Debug\netcoreapp3.1\DictnaryEg.genruntimeconfig.cache

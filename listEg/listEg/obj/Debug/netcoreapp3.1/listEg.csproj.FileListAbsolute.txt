@@ -1,0 +1,14 @@
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.csproj.AssemblyReference.cache
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.AssemblyInfoInputs.cache
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.AssemblyInfo.cs
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.csproj.CoreCompileInputs.cache
+C:\Users\makhe\source\repos\listEg\listEg\bin\Debug\netcoreapp3.1\listEg.exe
+C:\Users\makhe\source\repos\listEg\listEg\bin\Debug\netcoreapp3.1\listEg.deps.json
+C:\Users\makhe\source\repos\listEg\listEg\bin\Debug\netcoreapp3.1\listEg.runtimeconfig.json
+C:\Users\makhe\source\repos\listEg\listEg\bin\Debug\netcoreapp3.1\listEg.runtimeconfig.dev.json
+C:\Users\makhe\source\repos\listEg\listEg\bin\Debug\netcoreapp3.1\listEg.dll
+C:\Users\makhe\source\repos\listEg\listEg\bin\Debug\netcoreapp3.1\listEg.pdb
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.dll
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.pdb
+C:\Users\makhe\source\repos\listEg\listEg\obj\Debug\netcoreapp3.1\listEg.genruntimeconfig.cache
