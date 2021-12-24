@@ -1,0 +1,14 @@
+E:\office\csharp\egLinq\egLinq\bin\Debug\netcoreapp3.1\egLinq.exe
+E:\office\csharp\egLinq\egLinq\bin\Debug\netcoreapp3.1\egLinq.deps.json
+E:\office\csharp\egLinq\egLinq\bin\Debug\netcoreapp3.1\egLinq.runtimeconfig.json
+E:\office\csharp\egLinq\egLinq\bin\Debug\netcoreapp3.1\egLinq.runtimeconfig.dev.json
+E:\office\csharp\egLinq\egLinq\bin\Debug\netcoreapp3.1\egLinq.dll
+E:\office\csharp\egLinq\egLinq\bin\Debug\netcoreapp3.1\egLinq.pdb
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.csproj.AssemblyReference.cache
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.AssemblyInfoInputs.cache
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.AssemblyInfo.cs
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.csproj.CoreCompileInputs.cache
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.dll
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.pdb
+E:\office\csharp\egLinq\egLinq\obj\Debug\netcoreapp3.1\egLinq.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linqEg1", "linqEg1\linqEg1.csproj", "{4F009A4A-C546-4F61-8D52-20B3CF0ED8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F009A4A-C546-4F61-8D52-20B3CF0ED8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F009A4A-C546-4F61-8D52-20B3CF0ED8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F009A4A-C546-4F61-8D52-20B3CF0ED8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F009A4A-C546-4F61-8D52-20B3CF0ED8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCAA682-6D3B-4C9B-BCB9-B81E58FAEAC8}
+	EndGlobalSection
+EndGlobal

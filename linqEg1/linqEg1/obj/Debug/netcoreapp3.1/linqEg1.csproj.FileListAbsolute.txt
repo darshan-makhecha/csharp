@@ -1,0 +1,14 @@
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.csproj.AssemblyReference.cache
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.AssemblyInfoInputs.cache
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.AssemblyInfo.cs
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.csproj.CoreCompileInputs.cache
+E:\office\csharp\linqEg1\linqEg1\bin\Debug\netcoreapp3.1\linqEg1.exe
+E:\office\csharp\linqEg1\linqEg1\bin\Debug\netcoreapp3.1\linqEg1.deps.json
+E:\office\csharp\linqEg1\linqEg1\bin\Debug\netcoreapp3.1\linqEg1.runtimeconfig.json
+E:\office\csharp\linqEg1\linqEg1\bin\Debug\netcoreapp3.1\linqEg1.runtimeconfig.dev.json
+E:\office\csharp\linqEg1\linqEg1\bin\Debug\netcoreapp3.1\linqEg1.dll
+E:\office\csharp\linqEg1\linqEg1\bin\Debug\netcoreapp3.1\linqEg1.pdb
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.dll
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.pdb
+E:\office\csharp\linqEg1\linqEg1\obj\Debug\netcoreapp3.1\linqEg1.genruntimeconfig.cache
