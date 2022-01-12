@@ -1,0 +1,7 @@
+E:\office\csharp\Task\Jalaram Store\Jalaram Store\Jalaram Store\bin\Debug\Jalaram Store.exe.config
+E:\office\csharp\Task\Jalaram Store\Jalaram Store\Jalaram Store\bin\Debug\Jalaram Store.exe
+E:\office\csharp\Task\Jalaram Store\Jalaram Store\Jalaram Store\bin\Debug\Jalaram Store.pdb
+E:\office\csharp\Task\Jalaram Store\Jalaram Store\Jalaram Store\obj\Debug\Jalaram Store.csproj.AssemblyReference.cache
+E:\office\csharp\Task\Jalaram Store\Jalaram Store\Jalaram Store\obj\Debug\Jalaram Store.csproj.CoreCompileInputs.cache
+E:\office\csharp\Task\Jalaram Store\Jalaram Store\Jalaram Store\obj\Debug\Jalaram Store.exe
+E:\office\csharp\Task\Jalaram Store\Jalaram Store\Jalaram Store\obj\Debug\Jalaram Store.pdb
