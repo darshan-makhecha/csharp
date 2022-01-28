@@ -1,0 +1,14 @@
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\bin\Debug\netcoreapp3.1\boxingDemo.exe
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\bin\Debug\netcoreapp3.1\boxingDemo.deps.json
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\bin\Debug\netcoreapp3.1\boxingDemo.runtimeconfig.json
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\bin\Debug\netcoreapp3.1\boxingDemo.runtimeconfig.dev.json
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\bin\Debug\netcoreapp3.1\boxingDemo.dll
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\bin\Debug\netcoreapp3.1\boxingDemo.pdb
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.csproj.AssemblyReference.cache
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.AssemblyInfoInputs.cache
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.AssemblyInfo.cs
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.csproj.CoreCompileInputs.cache
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.dll
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.pdb
+C:\Users\makhe\source\repos\boxingDemo\boxingDemo\obj\Debug\netcoreapp3.1\boxingDemo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\makhe\source\repos\pointer\pointer\bin\Debug\netcoreapp3.1\pointer.exe
+C:\Users\makhe\source\repos\pointer\pointer\bin\Debug\netcoreapp3.1\pointer.deps.json
+C:\Users\makhe\source\repos\pointer\pointer\bin\Debug\netcoreapp3.1\pointer.runtimeconfig.json
+C:\Users\makhe\source\repos\pointer\pointer\bin\Debug\netcoreapp3.1\pointer.runtimeconfig.dev.json
+C:\Users\makhe\source\repos\pointer\pointer\bin\Debug\netcoreapp3.1\pointer.dll
+C:\Users\makhe\source\repos\pointer\pointer\bin\Debug\netcoreapp3.1\pointer.pdb
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.csproj.AssemblyReference.cache
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.AssemblyInfoInputs.cache
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.AssemblyInfo.cs
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.csproj.CoreCompileInputs.cache
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.dll
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.pdb
+C:\Users\makhe\source\repos\pointer\pointer\obj\Debug\netcoreapp3.1\pointer.genruntimeconfig.cache

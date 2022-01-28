@@ -1,0 +1,14 @@
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\bin\Debug\netcoreapp3.1\genericClassDemo.exe
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\bin\Debug\netcoreapp3.1\genericClassDemo.deps.json
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\bin\Debug\netcoreapp3.1\genericClassDemo.runtimeconfig.json
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\bin\Debug\netcoreapp3.1\genericClassDemo.runtimeconfig.dev.json
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\bin\Debug\netcoreapp3.1\genericClassDemo.dll
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\bin\Debug\netcoreapp3.1\genericClassDemo.pdb
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.csproj.AssemblyReference.cache
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.AssemblyInfoInputs.cache
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.AssemblyInfo.cs
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.dll
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.pdb
+C:\Users\makhe\source\repos\genericClassDemo\genericClassDemo\obj\Debug\netcoreapp3.1\genericClassDemo.genruntimeconfig.cache
